@@ -86,5 +86,5 @@ Contributions to the MERN-BookStore are welcome! Please follow these steps:
 4. 🚀 Push your changes to your fork.
 5. 🔄 Create a pull request to the main repository.
 
-Contributions and feedback are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue. Please follow the contribution guidelines.
+
 
