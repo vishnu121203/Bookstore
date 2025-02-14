@@ -1,4 +1,4 @@
-# 📚 MERN BookStore: A Full-Stack Web Application for Managing Books
+# 📚 MERN-BookStore: A Full-Stack Web Application for Managing Books
 
 ## Overview
 
